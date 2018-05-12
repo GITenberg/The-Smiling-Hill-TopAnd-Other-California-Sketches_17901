@@ -1,0 +1,32 @@
+_repo: The-Smiling-Hill-TopAnd-Other-California-Sketches_17901
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Winslow, Carleton M.
+    gutenberg_agent_id: '7680'
+    url: http://www.gutenberg.org/2009/agents/7680
+covers:
+- cover_type: archival
+  image_path: 17901-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sloane, Julia M.
+    gutenberg_agent_id: '7679'
+    url: http://www.gutenberg.org/2009/agents/7679
+description: ''
+gutenberg_issued: '2006-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F850.5'
+- !lcsh 'California, Southern -- Description and travel'
+tableOfContents: The Smiling Hill-Top -- A California poppy -- Gardeners -- Thorns
+  -- The gypsy trail -- An adventure in solitude -- A Sabine Farm -- The land of "Whynot"
+  -- Where the trade wind blows -- Sunkist.
+title: The Smiling Hill-Top, and Other California Sketches
+url: http://www.gutenberg.org/ebooks/17901
